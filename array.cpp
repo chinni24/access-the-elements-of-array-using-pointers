@@ -9,7 +9,7 @@ int main()
    for(int i = 0; i < 5; ++i)
       cin >> data[i];
       
-   cout << "you entered: ";
+   cout << "You entered: ";
    for(int i = 0; i < 5; ++i)
       cout << endl << *(data + i)
         
